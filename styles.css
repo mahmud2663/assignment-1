@@ -73,5 +73,17 @@
     text-align: center;
 }
 .gra{
-    background-image: url();
+   background-image: url(./images/watch.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   margin-top: 150px;
+   
+    
+}
+.gt{
+    
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    
 }
